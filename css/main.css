@@ -41,9 +41,9 @@ body {
   align-items: center;
   width: 75%;
   height: 600px;
-  background-color: rgba(0,0,0,.7);
+  background-color: rgba(0,0,0,.8);
   border-radius: 10px;
-  box-shadow: 0 0 15px 1px darkslategrey;
+  box-shadow: 0 0 150px 1px;
 }
 
 .btn {
