@@ -43,6 +43,7 @@ body {
   height: 600px;
   background-color: rgba(0,0,0,.7);
   border-radius: 10px;
+  box-shadow: 0 0 15px 1px darkslategrey;
 }
 
 .btn {
